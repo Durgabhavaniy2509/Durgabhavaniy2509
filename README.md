@@ -4,7 +4,6 @@
 )
 <h1 align="center">Hi 👋, I'm Durga Bhavani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align='right' alt = 'coding' width = '400px' src = 'https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1'>
 
 - 🌱 I’m currently learning **JavaScript and its frameworks.**
 
