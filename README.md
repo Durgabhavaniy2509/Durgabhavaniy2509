@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Durga Bhavani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **JavaScript and its frameworks.**
+- 🌱 I’m currently learning **NodeJs**
 
-- 💬 Ask me about **HTML,CSS, Bootstrap**
+- 💬 Ask me about **ReactJs, Javascript, HTML,CSS, Bootstrap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
