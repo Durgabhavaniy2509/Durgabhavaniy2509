@@ -32,12 +32,12 @@ I’m currently focusing on:
 
 ---
 
-### 🛠️ Languages & Tools  
+### 🛠️ Tools & Languages 
 <p align="left">
   <img src="https://cdn.simpleicons.org/autodeskrevit/0A84FF" alt="Revit" width="40" height="40"/>
-  <img src="https://dynamobim.org/wp-content/uploads/2015/02/dynamo_logo-300x300.png" alt="Dynamo" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/autocad-1.svg" alt="AutoCAD" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/autodesk-navisworks.svg" alt="Navisworks" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/autocad/EF3F36" alt="AutoCAD" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/autodesknavisworks/00AEEF" alt="Navisworks" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/autodeskrevit/0A84FF" alt="Revit" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </p>
