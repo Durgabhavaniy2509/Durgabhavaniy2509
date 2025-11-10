@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durga Bhavani Yasarapu</h1>
-<h3 align="center">BIM Engineer | BIM Automation | BIM Enthusiast | Revit + Dynamo + C# Developer</h3>
+<h3 align="center">BIM Engineer | BIM Automation | Revit + Dynamo + C# Developer</h3>
 
 ---
 
