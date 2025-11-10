@@ -33,23 +33,10 @@ I’m currently focusing on:
 ---
 
 ### 🛠️ Tools & Languages 
-<p align="left">
-  ### 🛠️ BIM Tools
-  <!-- Revit -->
-  <img src="https://cdn.worldvectorlogo.com/logos/autodesk-revit.svg" alt="Revit" width="40" height="40"/>
-  
-  <!-- Dynamo -->
-  <img src="https://dynamobim.org/wp-content/uploads/2015/02/dynamo_logo-300x300.png" alt="Dynamo" width="40" height="40"/>
-  
-  <!-- AutoCAD -->
-  <img src="https://cdn.worldvectorlogo.com/logos/autocad-1.svg" alt="AutoCAD" width="40" height="40"/>
-  
-  <!-- Navisworks -->
-  <img src="https://cdn.worldvectorlogo.com/logos/autodesk-navisworks.svg" alt="Navisworks" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-</p>
+**BIM Tools:** Autodesk Revit · Dynamo · AutoCAD · Navisworks  
+**Programming:** Python · C#  
+**Frameworks & APIs:** Revit API · .NET · WinForms / WPF  
+**Version Control:** Git · GitHub
 
 ---
 
