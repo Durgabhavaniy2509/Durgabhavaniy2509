@@ -19,7 +19,6 @@ I’m currently focusing on:
 🔹 Dynamo Automation  
 🔹 Revit API using C# or Python  
 🔹 BIM Workflow Optimization
-🔹 Frontend Development (ReactJS, JS, HTML, CSS)
 
 ---
 
