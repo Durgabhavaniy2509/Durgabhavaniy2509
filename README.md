@@ -4,7 +4,7 @@
 ---
 
 ### 👩‍💻 About Me  
-I have over **2 years of experience in MEP BIM Modeling, Coordination and Shop Drawings**.  
+I have over **2 years of experience in MEP BIM Modeling, Coordination and Detailed Shop Drawings**.  
 Over time, I became passionate about **BIM Automation** — identifying repetitive and time-consuming workflows and building tools to simplify them.  
 
 I’m currently focusing on:  
@@ -16,10 +16,10 @@ I’m currently focusing on:
 ---
 
 ### 💬 Ask Me About  
-- Dynamo Automation  
-- Revit API using C# or Python  
-- BIM Workflow Optimization  
-- Frontend Development (ReactJS, JS, HTML, CSS)
+🔹 Dynamo Automation  
+🔹 Revit API using C# or Python  
+🔹 BIM Workflow Optimization
+🔹 Frontend Development (ReactJS, JS, HTML, CSS)
 
 ---
 
